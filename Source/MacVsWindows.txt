@@ -1,0 +1,4 @@
+The difference between windows and mac version of the py files is:
+
+For windows: os.system('CLS') to clear the command window (between each screen update)
+For Linux/Mac: os.system('clear') to clear the command window
