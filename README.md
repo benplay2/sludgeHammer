@@ -1,4 +1,4 @@
- # sludgeHammer
+ # SludgeHammer
 Sludgehammer the AWESOME python-based game
 
 Check out the trailer on YouTube: https://youtu.be/3f29E0HL2yc
