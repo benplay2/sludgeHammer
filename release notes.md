@@ -29,4 +29,4 @@ This installer will install SludgeHammer on your computer and place a link in th
 
 This would not have been possible without py2exe and Clickteam Install Creator.
 
-Copyright © 2011 is reserved.
+Copyright Â© 2011 is reserved.
